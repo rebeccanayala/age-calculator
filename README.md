@@ -1,6 +1,6 @@
 # Age Calculator
 
-This is a simple Java program to calculate age based on the year of birth.
+This is a simple Java program designed as a practical exercise to calculate age based on the year of birth.
 
 ## Prerequisites
 
