@@ -22,7 +22,12 @@ java AgeCalculator
 ```
 **4.** Follow the instructions on the console to enter your year of birth.
 
+## Contribution
+
+Feel free to contribute with improvements, bug fixes, or new features. As a student, this project is part of a practical exercise. If you have suggestions, questions, or would like to collaborate in any way, please open an issue or submit a pull request.
+
+Your feedback and contributions are highly welcome! 
+
 ## License
 
 This project is distributed under the MIT License.
-
